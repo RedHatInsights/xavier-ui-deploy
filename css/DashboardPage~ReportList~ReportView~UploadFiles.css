@@ -72,7 +72,7 @@
   --pf-c-about-modal-box__close--c-button--Height: calc(var(--pf-c-about-modal-box__close--c-button--FontSize) * 2);
   --pf-c-about-modal-box__close--c-button--BackgroundColor: #030303;
   --pf-c-about-modal-box__close--c-button--hover--BackgroundColor: rgba(3, 3, 3, 0.4);
-  --pf-c-about-modal-box__hero--sm--BackgroundImage: url(/apps/xavier/fonts/pfbg_992@2x.jpg);
+  --pf-c-about-modal-box__hero--sm--BackgroundImage: url(/apps/migration-analytics/fonts/pfbg_992@2x.jpg);
   --pf-c-about-modal-box__hero--sm--BackgroundPosition: top left;
   --pf-c-about-modal-box__hero--sm--BackgroundSize: cover;
   --pf-c-about-modal-box__brand-image--Height: 2.5rem;
@@ -1239,11 +1239,11 @@
 /* stylelint-enable */
 .pf-c-background-image {
   --pf-c-background-image--BackgroundColor: var(--pf-global--BackgroundColor--dark-100);
-  --pf-c-background-image--BackgroundImage: url(/apps/xavier/fonts/pfbg_576.jpg);
-  --pf-c-background-image--BackgroundImage-2x: url(/apps/xavier/fonts/pfbg_576@2x.jpg);
-  --pf-c-background-image--BackgroundImage--sm: url(/apps/xavier/fonts/pfbg_768.jpg);
-  --pf-c-background-image--BackgroundImage--sm-2x: url(/apps/xavier/fonts/pfbg_768@2x.jpg);
-  --pf-c-background-image--BackgroundImage--lg: url(/apps/xavier/fonts/pfbg_2000.jpg);
+  --pf-c-background-image--BackgroundImage: url(/apps/migration-analytics/fonts/pfbg_576.jpg);
+  --pf-c-background-image--BackgroundImage-2x: url(/apps/migration-analytics/fonts/pfbg_576@2x.jpg);
+  --pf-c-background-image--BackgroundImage--sm: url(/apps/migration-analytics/fonts/pfbg_768.jpg);
+  --pf-c-background-image--BackgroundImage--sm-2x: url(/apps/migration-analytics/fonts/pfbg_768@2x.jpg);
+  --pf-c-background-image--BackgroundImage--lg: url(/apps/migration-analytics/fonts/pfbg_2000.jpg);
   --pf-c-background-image--Filter: url("#image_overlay"); }
 
 .pf-c-background-image::before {
