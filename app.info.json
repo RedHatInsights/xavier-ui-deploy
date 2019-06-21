@@ -4,8 +4,8 @@
   "src_tag": "",
   "src_branch": "master",
   "travis": {
-    "event_type": "push",
-    "build_number": "43",
-    "build_web_url": "https://travis-ci.org/project-xavier/xavier-ui/builds/546805743"
+    "event_type": "api",
+    "build_number": "44",
+    "build_web_url": "https://travis-ci.org/project-xavier/xavier-ui/builds/548734180"
   }
 }
