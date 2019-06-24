@@ -113,7 +113,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "bff2af952e9ac853a8c9";
+/******/ 	var hotCurrentHash = "9e53911fb229ed131cf2";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1047,7 +1047,7 @@ function (_Component) {
       insights.chrome.init(); // TODO change this to your appname
       // TODO should the sample app webpack just rewrite this automatically?
 
-      insights.chrome.identifyApp('analytics');
+      insights.chrome.identifyApp('dashboard');
       insights.chrome.navigation(buildNavigation());
       this.appNav = insights.chrome.on('APP_NAVIGATION', function (event) {
         return _this.props.history.push("/".concat(event.navId));
@@ -1490,7 +1490,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_2__);
 
 
- //export const NOTIFICATIONS_API_ROOT = '/api/xavier/camel';
 
 var NOTIFICATIONS_API_ROOT = '/camel';
 
