@@ -1,11 +1,11 @@
 {
   "app_name": "migration-analytics",
-  "src_hash": "7422023e0d38d748646be201c0ddff5ea42b6b9d",
+  "src_hash": "87cee1eb3a65bfb2b97559d4581c1e93d5991d2e",
   "src_tag": "",
   "src_branch": "qa-beta",
   "travis": {
     "event_type": "push",
-    "build_number": "290",
-    "build_web_url": "https://travis-ci.org/project-xavier/xavier-ui/builds/588861515"
+    "build_number": "294",
+    "build_web_url": "https://travis-ci.org/project-xavier/xavier-ui/builds/594974107"
   }
 }
