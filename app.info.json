@@ -1,11 +1,12 @@
 {
   "app_name": "migration-analytics",
-  "src_hash": "e68e8de9c6eb1585b94b7d5a4568b02f6786cd48",
+  "src_hash": "0d3e6ed385c4607ecd9991f4dfe5d47e1ea5937e",
   "src_tag": "",
   "src_branch": "qa-stable",
+  "patternfly_dependencies": ["@patternfly/patternfly@4.10.31","@patternfly/react-charts@6.5.1","@patternfly/react-core@4.22.2","@patternfly/react-table@4.8.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "529",
-    "build_web_url": "https://travis-ci.org/project-xavier/xavier-ui/builds/729005261"
+    "build_number": "536",
+    "build_web_url": "https://travis-ci.org/project-xavier/xavier-ui/builds/729695794"
   }
 }
